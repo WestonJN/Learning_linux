@@ -1,0 +1,28 @@
+Task 1
+ls
+pwd
+mkdir workspace
+cd workspace
+touch README.md
+cp README.md CHANGELOG.md
+ls
+
+
+Task 2
+touch execise.md
+md exercise.md /tmp
+rm exercise.md /home/recruit/tmp
+
+Task 3
+touch recruits.md
+touch cohort.md
+nano umuzi.md
+nano recruits.md
+nano cohort.md
+cat umuzi.md recruits.md cohort.md
+cat umuzi.md recruits.md cohort.md > summary.md
+nano summary.md
+
+Task 4
+locate umuzi.md
+locate umuzi > search_result.md
